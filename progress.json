@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T08:32:01.729Z",
+  "generated_at": "2026-10-06T08:42:48.897Z",
   "items": {
     "problem:125": {
       "kind": "problem",
@@ -100,6 +100,19 @@
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-10-06T08:30:39.789Z",
       "last_pushed_at": "2026-10-06T08:30:39.789Z"
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-10-06T08:42:48.248Z",
+      "last_pushed_at": "2026-10-06T08:42:48.248Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
