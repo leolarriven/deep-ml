@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 15 problems · 1 labs · 2 math
+**19** solved · 16 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-10-06 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-10-06 | [solution](problems/0217-derivatives-of-activation-functions) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-06 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
+| [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-10-06 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-06 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-06 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-06 | [solution](problems/1228-mean-squared-error-from-scratch) |
