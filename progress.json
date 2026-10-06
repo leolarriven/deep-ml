@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:13:39.186Z",
+  "generated_at": "2026-10-06T09:19:52.535Z",
   "items": {
     "problem:125": {
       "kind": "problem",
@@ -150,6 +150,19 @@
       "path": "problems/0880-create-a-float-tensor-from-a-python-list",
       "first_solved_at": "2026-10-06T09:13:38.605Z",
       "last_pushed_at": "2026-10-06T09:13:38.605Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:883": {
+      "kind": "problem",
+      "id": "883",
+      "title": "Implement a Linear Layer Forward Pass with Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/883",
+      "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
+      "first_solved_at": "2026-10-06T09:19:52.000Z",
+      "last_pushed_at": "2026-10-06T09:19:52.000Z",
       "language": "python",
       "lines": 5
     }
