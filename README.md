@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 8 problems · 0 labs · 2 math
+**11** solved · 8 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-05 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-10-05 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2026-10-05 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
+
+## Labs
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-10-06 | [solution](labs/0009-design-your-own-activation-function) |
 
 ## Math
 
