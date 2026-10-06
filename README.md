@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**16** solved · 13 problems · 1 labs · 2 math
+**17** solved · 14 problems · 1 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-06 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-06 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-06 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-10-06 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-10-05 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-10-05 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-10-05 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
