@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:39:18.229Z",
+  "generated_at": "2026-10-07T12:40:14.013Z",
   "items": {
     "problem:125": {
       "kind": "problem",
@@ -343,6 +343,19 @@
       "path": "math/0118-interpolation-and-double-descent",
       "first_solved_at": "2026-10-07T12:39:17.538Z",
       "last_pushed_at": "2026-10-07T12:39:17.538Z"
+    },
+    "problem:804": {
+      "kind": "problem",
+      "id": "804",
+      "title": "Bias-Variance Decomposition from Bootstrap",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/804",
+      "path": "problems/0804-bias-variance-decomposition-from-bootstrap",
+      "first_solved_at": "2026-10-07T12:40:13.383Z",
+      "last_pushed_at": "2026-10-07T12:40:13.383Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
