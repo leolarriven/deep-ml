@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:19:42.319Z",
+  "generated_at": "2026-10-07T12:32:38.961Z",
   "items": {
     "problem:125": {
       "kind": "problem",
@@ -319,6 +319,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-10-07T12:19:41.652Z",
       "last_pushed_at": "2026-10-07T12:19:41.652Z"
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2026-10-07T12:32:38.355Z",
+      "last_pushed_at": "2026-10-07T12:32:38.355Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
