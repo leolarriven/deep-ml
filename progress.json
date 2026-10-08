@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T07:33:48.608Z",
+  "generated_at": "2026-10-08T09:28:06.943Z",
   "items": {
     "problem:125": {
       "kind": "problem",
@@ -369,6 +369,19 @@
       "last_pushed_at": "2026-10-08T07:33:47.965Z",
       "language": "python",
       "lines": 189
+    },
+    "problem:264": {
+      "kind": "problem",
+      "id": "264",
+      "title": "Implement the Tanh Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/264",
+      "path": "problems/0264-implement-the-tanh-activation-function",
+      "first_solved_at": "2026-10-08T09:28:06.350Z",
+      "last_pushed_at": "2026-10-08T09:28:06.350Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
