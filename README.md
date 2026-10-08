@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**30** solved · 24 problems · 2 labs · 4 math
+**31** solved · 25 problems · 2 labs · 4 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-10-07 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-10-06 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-10-06 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
+| [Implement He Weight Initialization](https://www.deep-ml.com/problems/290) | easy | 2026-10-08 | [solution](problems/0290-implement-he-weight-initialization) |
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-10-06 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implement the Tanh Activation Function](https://www.deep-ml.com/problems/264) | easy | 2026-10-08 | [solution](problems/0264-implement-the-tanh-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-06 | [solution](problems/0039-implementation-of-log-softmax-function) |
