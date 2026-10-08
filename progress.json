@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T12:40:14.013Z",
+  "generated_at": "2026-10-08T07:33:48.608Z",
   "items": {
     "problem:125": {
       "kind": "problem",
@@ -356,6 +356,19 @@
       "last_pushed_at": "2026-10-07T12:40:13.383Z",
       "language": "python",
       "lines": 26
+    },
+    "lab:21": {
+      "kind": "lab",
+      "id": "21",
+      "title": "Fix Overfitting with Regularization (NumPy)",
+      "difficulty": "medium",
+      "category": "Regularized Regression",
+      "url": "https://www.deep-ml.com/labs/21",
+      "path": "labs/0021-fix-overfitting-with-regularization-numpy",
+      "first_solved_at": "2026-10-08T07:33:47.965Z",
+      "last_pushed_at": "2026-10-08T07:33:47.965Z",
+      "language": "python",
+      "lines": 189
     }
   }
 }
